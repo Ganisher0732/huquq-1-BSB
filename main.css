@@ -1,0 +1,55 @@
+.hquq {
+    color: aqua;
+    background-color: black;
+    border-radius: 10px;
+    width: fit-content;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+
+.hquq:hover {
+    transition: 0.5s;
+    font-size: 40px;
+}
+
+body {
+    background-color: gray;
+}
+
+.inson {
+    margin-bottom:20px;
+    background-color: black;
+    color: aqua;
+    border-radius: 10px;
+    width: fit-content;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+
+.inson:hover {
+    transition: 0.5s;
+    font-size: 40px;
+}
+
+.inson-bu {
+    background-color: black;
+    color: aqua;
+    border-radius: 10px;
+    width: fit-content;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+
+.inson-bu:hover {
+    transition: 0.5s;
+    font-size: 40px;
+}
+.conatiner-overs {
+    display: flex;
+}
